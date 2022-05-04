@@ -10,7 +10,7 @@ Hey there 👋
 
 I’m Rohit, and I am passionate about developing applications that solve real-world problems.
 
-Want to know more about me? [Check out my portfolio.](https://rohitkrtiwari.github.io/portfolio/)
+Want to know more about me? [Check out my portfolio.](https://rohitkrtiwari.github.io/Portfolio/)
 
 ## 📌 Pinned Repositories
 

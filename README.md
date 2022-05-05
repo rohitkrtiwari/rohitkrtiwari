@@ -46,7 +46,7 @@ Want to know more about me? [Check out my portfolio.](https://rohitkrtiwari.gith
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkrtiwari&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/rohitkrtiwari/github-readme-stats" title="Go to Source">
+<a href="https://github.com/rohitkrtiwari/">
   <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=rohitkrtiwari&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
 </a>
 <br>

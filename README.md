@@ -57,3 +57,5 @@ Want to know more about me? [Check out my portfolio.](https://rohitkrtiwari.gith
  <a href="https://github.com/rohitkrtiwari" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/github%20rect.svg"></a>&nbsp;&nbsp;
  
  <hr>
+ 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=rohitkrtiwari.rohitkrtiwari)

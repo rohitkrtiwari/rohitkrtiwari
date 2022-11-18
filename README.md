@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+  <img src="svg/Blue Modern Gradient Technology LinkedIn Banner.png" height="200"/>
 </p>
 <hr>
 <br>

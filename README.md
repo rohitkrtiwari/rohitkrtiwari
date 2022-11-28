@@ -16,23 +16,21 @@ Want to know more about me? [Check out my portfolio.](https://rohitkrtiwari.gith
 
 <br>
 
-<a href="https://github.com/rohitkrtiwari/PasswordManager">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rohitkrtiwari&repo=PasswordManager&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
 <a href="https://github.com/rohitkrtiwari/real-time-vehicle-tracking-system">
   <img align="right" style="margin:1.5rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=rohitkrtiwari&repo=real-time-vehicle-tracking-system&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-
-<br>
-<br>
-
-<a href="https://github.com/rohitkrtiwari/ABHYUDAYA-Blood-Donation-Drive">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rohitkrtiwari&repo=ABHYUDAYA-Blood-Donation-Drive&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/rohitkrtiwari/Chronic-Kidney-Disease-Prediction">
+  <img align="right" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rohitkrtiwari&repo=Chronic-Kidney-Disease-Prediction&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/rohitkrtiwari/FLASK_DATABASE_REST">
-  <img align="right" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rohitkrtiwari&repo=FLASK_DATABASE_REST&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<br>
+<br>
+
+<a href="https://github.com/rohitkrtiwari/PasswordManager">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rohitkrtiwari&repo=PasswordManager&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+<a href="https://github.com/rohitkrtiwari/ABHYUDAYA-Blood-Donation-Drive">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rohitkrtiwari&repo=ABHYUDAYA-Blood-Donation-Drive&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>

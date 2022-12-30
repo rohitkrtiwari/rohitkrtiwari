@@ -60,7 +60,6 @@ Want to know more about me? [Check out my portfolio.](https://rohitkrtiwari.gith
   <a href="https://twitter.com/RohitTi15563830"><img src="https://img.shields.io/badge/Twitter-RohitTiwari-1da1f2?style=flat&logo=Twitter" alt="Twitter Badge"></a> &nbsp;
   <a href="https://rohitkrtiwari.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-RohitTiwari-4fc08d?style=flat&logo=Home%20Assistant&logoColor=4fc08d" alt="Portfolio Badge"></a> &nbsp;
   <a href="https://www.linkedin.com/in/rohitkrtiwari/"><img src="https://img.shields.io/badge/LinkedIn-rohitkrtiwari-0077b5?style=flat&logo=LinkedIn" alt="Linkedin Badge"></a> &nbsp;
-  <a href="https://dev.to/PramodDevireddy"><img src="https://img.shields.io/badge/DEV.to-RohitTiwari-ff6600?style=flat&logo=dev.to" alt="Dev.to"></a> &nbsp;
 </p>
  <hr>
  

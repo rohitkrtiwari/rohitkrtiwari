@@ -29,8 +29,8 @@ Want to know more about me? [Check out my portfolio.](https://rohitkrtiwari.gith
 <a href="https://github.com/rohitkrtiwari/ABHYUDAYA-Blood-Donation-Drive">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rohitkrtiwari&repo=ABHYUDAYA-Blood-Donation-Drive&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-<a href="https://github.com/rohitkrtiwari/PasswordManager">
-  <img align="right" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rohitkrtiwari&repo=PasswordManager&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/rohitkrtiwari/ISSAT-ISRO-Satellite-Tracker">
+  <img align="right" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rohitkrtiwari&repo=ISSAT-ISRO-Satellite-Tracker&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>

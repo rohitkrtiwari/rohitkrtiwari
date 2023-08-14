@@ -4,12 +4,9 @@
 <hr>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Rohit!;I'm+a+CSE+Undergrad...;And+an+ML+Enthusiast)](https://git.io/typing-svg)
+Hello! I'm Rohit Tiwari, a passionate Computer Science undergraduate with a profound fascination for the world of computers with a deep comprehension of theories and concepts. I aspire to explore the uncharted territories of research in the realm of computers, where I aspire to contribute to the ever-evolving landscape of knowledge.
 
-Hey there 👋
-I am Currently pursuing my B tech from Institute of Engineering and Technology, Lucknow in Computer Science and Engineering, a fresher, no job experience as such. Wish to contribute through ML and Neural Networks to make the lives of people much better.
-
-Want to know more about me? [Check out my portfolio.](https://rohitkrtiwari.github.io/Portfolio/)
+Want to know more about me? [(Check_out_my_portfolio!)](https://rohitkrtiwari.github.io/Portfolio/)
 
 ## 📌 Pinned Repositories
 

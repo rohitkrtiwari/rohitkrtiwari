@@ -13,7 +13,7 @@ Want to know more about me? [(Check_out_my_portfolio!)](https://rohit-tiwari.ver
   <p align="center">
   <a href="mailto:rohitkrtiwari2002@gmail.com"><img src="https://img.shields.io/badge/GMail-rohitkrtiwari2002-d14836?style=flat&logo=Gmail" alt="Gmail Badge"></a> &nbsp;
   <a href="https://twitter.com/RohitTi15563830"><img src="https://img.shields.io/badge/Twitter-RohitTiwari-1da1f2?style=flat&logo=Twitter" alt="Twitter Badge"></a> &nbsp;
-  <a href="https://rohitkrtiwari.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-RohitTiwari-4fc08d?style=flat&logo=Home%20Assistant&logoColor=4fc08d" alt="Portfolio Badge"></a> &nbsp;
+  <a href="https://rohit-tiwari.vercel.app"><img src="https://img.shields.io/badge/Portfolio-RohitTiwari-4fc08d?style=flat&logo=Home%20Assistant&logoColor=4fc08d" alt="Portfolio Badge"></a> &nbsp;
   <a href="https://www.linkedin.com/in/rohitkrtiwari/"><img src="https://img.shields.io/badge/LinkedIn-rohitkrtiwari-0077b5?style=flat&logo=LinkedIn" alt="Linkedin Badge"></a> &nbsp;
 </p>
  <hr>
